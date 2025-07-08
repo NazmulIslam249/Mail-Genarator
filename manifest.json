@@ -1,0 +1,21 @@
+{
+  "name": "Gmail Variations Generator",
+  "short_name": "GmailGen",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f2f2f2",
+  "theme_color": "#4CAF50",
+  "description": "Generate Gmail dot and plus address variations easily.",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
